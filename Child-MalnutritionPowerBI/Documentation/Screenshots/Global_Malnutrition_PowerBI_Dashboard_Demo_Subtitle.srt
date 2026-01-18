@@ -1,0 +1,55 @@
+1
+00:00:00,000 --> 00:00:20,000
+Global Malnutrition Trends: A Power BI Analysis from 1983 to 2019. This project analyzes child malnutrition indicators using an interactive Power BI dashboard.
+
+2
+00:00:20,000 --> 00:00:34,000
+Understanding long-term malnutrition trends is challenging due to large and complex datasets. This project addresses the need for clear, visual, and data-driven insights.
+
+3
+00:00:35,000 --> 00:00:55,000
+The dataset is originally published by UNICEF, WHO, and the World Bank, and accessed through a public GitHub repository. It covers the years 1983 to 2019.
+
+4
+00:00:55,000 --> 00:01:05,000
+The dataset includes indicators such as stunting, underweight, wasting, income classification, and survey sample size across multiple countries.
+
+5
+00:01:05,000 --> 00:01:30,000
+This line chart shows year-wise trends of stunting, underweight, and wasting, highlighting an overall decline in malnutrition indicators over time.
+
+6
+00:01:30,000 --> 00:01:55,000
+Wasting displays higher year-to-year variation compared to other indicators, indicating sensitivity to short-term health and nutrition conditions.
+
+7
+00:01:55,000 --> 00:02:20,000
+This bar chart highlights the top 10 countries with the highest average stunting percentages, helping identify high-risk regions.
+
+8
+00:02:20,000 --> 00:02:40,000
+KPI cards summarize key metrics including average stunting, underweight, wasting, and total survey sample size.
+
+9
+00:02:40,000 --> 00:03:00,000
+The donut chart represents the proportional contribution of stunting, underweight, and wasting to overall child malnutrition.
+
+10
+00:03:00,000 --> 00:03:20,000
+The matrix visualization provides country-wise comparison using conditional formatting for better interpretability.
+
+11
+00:03:20,000 --> 00:03:35,000
+Conditional formatting uses red, orange, and green colors to represent high, medium, and low severity levels.
+
+12
+00:03:35,000 --> 00:03:50,000
+Income classification is included to analyze the relationship between economic status and malnutrition prevalence.
+
+13
+00:03:50,000 --> 00:04:05,000
+In conclusion, the dashboard enables quick identification of trends, high-risk countries, and severity of malnutrition indicators.
+
+14
+00:04:05,000 --> 00:04:20,000
+Thank you for watching. This project demonstrates how Power BI can transform complex health data into actionable insights.
